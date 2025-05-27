@@ -28,11 +28,14 @@
 
 ### 📚 Language Preferences
 
-![ashutosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=afiyataibani&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
+![Afiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=afiyataibani&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
 
 ### 🔥 Streak
 
 ![Afiya's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=afiyataibani&theme=highContrast)
 
-#### Thanks for stopping by my GitHub profile. Dive into the repositories to discover my coding journey. Your feedback and contributions are highly appreciated. Let's innovate and create impactful solutions together! 💡✨"
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afiyataibani&theme=great_gatsby)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afiyataibani&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afiyataibani&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afiyataibani&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afiyataibani&theme=great_gatsby&utcOffset=8)
+
+#### Thanks for stopping by my GitHub profile. Dive into the repositories to discover my coding journey. Your feedback and contributions are highly appreciated. Let's innovate and create impactful solutions together! 💡✨"
